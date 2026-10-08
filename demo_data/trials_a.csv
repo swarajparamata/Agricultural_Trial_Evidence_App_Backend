@@ -1,0 +1,4 @@
+trial_id,crop,product,country,year,trial_type,treatment_yield,control_yield,yield_unit
+T01,Wheat,Harvest Plus,France,2023,Scientific,8.4,8.0,t/ha
+T02,wheat,HARVESTPLUS,DE,2024,Demonstration,7800,7500,kg/ha
+T03,Potato,Root Boost,Spain,2023,Demonstration,42,40,t/ha

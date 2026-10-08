@@ -1,0 +1,8 @@
+Trial T02 field report
+Trial details
+Crop: Wheat. Product: HarvestPlus. Location: Germany. Year: 2024.
+Trial type: Demonstration.
+Results
+Treated yield: 7.8 t/ha. Untreated yield: 7.5 t/ha.
+Notes
+One demonstration site. Replication and statistical significance are not documented.

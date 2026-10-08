@@ -1,0 +1,14 @@
+[project]
+name = "agritrial-backend"
+version = "1.0.0"
+description = "FastAPI backend of the AgriEvidence agricultural trial evidence platform"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-q"
+filterwarnings = [
+    # Starlette 1.x nudges TestClient users towards httpx2; plain httpx still works.
+    "ignore:Using `httpx` with `starlette.testclient` is deprecated",
+]

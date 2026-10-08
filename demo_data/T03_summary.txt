@@ -1,0 +1,8 @@
+Trial T03 summary
+Trial details
+Crop: Potato. Product: RootBoost. Country: Spain. Year: 2023.
+Trial type: Demonstration.
+Results
+Treated yield: 44 t/ha. Control yield: 40 t/ha.
+Notes
+This report and the spreadsheet give different treated yields. Neither source indicates which result is final.
